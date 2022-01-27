@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4008588396989183125}
   - component: {fileID: 5195747635681289880}
   - component: {fileID: -3317113411613092787}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sphere
   m_TagString: Earth
   m_Icon: {fileID: 0}
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb63d190f2a431b4ca962c0b25d7df0f, type: 2}
+  - {fileID: 2100000, guid: 3adde4e38d8385248ab50526cc9d570e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
